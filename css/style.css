@@ -1,0 +1,52 @@
+.divverde{background-color:green;}
+
+.divamarelo{background-color:yellow;}
+
+.divvermelho{background-color:red;}
+
+.font-1{font-family:'fontastique';
+ src:url('fotns/fantastique,ttf'); font-weight:normal; 
+font-style:normal;
+}
+.font-2{font-family:'fontastique'; 
+src:url('fotns/fantastique,ttf'); font-weight:normal;
+ font-style:normal;
+}
+.card{padding:20px;color:black;justufy-content:center;text-align:center;border:2px solid;border-radius:8px;}
+.card>span{font-size:60pt;}
+.footer{background-color:red;
+padding:10px;
+color:#fff;}
+.footer span{font-size:12pt;}
+.blog-data{
+background-color:red;
+color:black;
+borde-radius:3px;
+}
+.blog-data .dia{
+font-size:36pt;
+}
+}
+.blog-data .mes{
+font-size:12pt;
+}
+}
+.blog-autor{
+font-size:20pt;
+color:#999;
+}
+.blog-previa{
+font-size:16pt;
+}
+.imgprevia{
+width:500px;
+height:300px;
+}
+.post-nav{
+background-color:red;
+padding-top:20px;
+padding-bottom:20px;
+}
+.post-nav span{ 
+font-size:30pt;
+}

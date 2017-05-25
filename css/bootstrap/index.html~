@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+
+    <title>bootstrap</title>
+    
+    <meta charset="uft-8">
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+
+ 
+<body>
+
+<button class="btn btn-primary btn-lg">saiba mais sobre</button><br>
+<br>
+<button class="btn btn-info btn-lg">saiba mais sobre</button><br>
+<br>
+<button class="btn btn-success btn-lg">saiba mais sobre</button><br>
+<br>
+<button class="btn btn-danger btn-lg ">saiba mais sobre</button>
+
+
+<div class="container">
+<div class="jumbotron">
+  <h1 class="text-center">bem vindos ao meu website!<br>
+  <button class="btn btn-primary btn-lg">clique aqui para saber mais </button>
+</h1>
+<p class="bg-danger btn-danger">info
+<table class=" table table-striped">
+<tr>
+   <td>coluna1</td>
+   <td>coluna2</td>
+</tr>
+
+<tr>
+   <td>coluna1</td>
+   <td class="wearning">coluna2</td>
+</tr>
+
+<tr>
+   <td>coluna1</td>
+   <td>coluna2</td>
+</tr>
+
+</div>
+
+
+
+
+</body>
+   
+
+</html>
+
